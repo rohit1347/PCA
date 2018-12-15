@@ -2,6 +2,10 @@
 
 Facial Recognition Using Principal Component Analysis
 ---
+
+<p>
+<img src="A_Eigenface190.jpg" height="300" width="400" alt="Eigenface"> <img src="C90_Img1.jpg" height="300" width="400" alt="Face detection for different expressions"></p>
+
 UCSD ECE269 Principal Component Analysis Programming Assignment
 
 ---
